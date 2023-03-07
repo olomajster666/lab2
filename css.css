@@ -1,0 +1,28 @@
+section{
+    height:80%;
+    float:left;
+    width:25%;
+    background-color:#F0F2EF;
+}
+
+aside{
+height:80%;
+width:75%;
+float:right;
+background-color:#5C5346;
+}
+
+header{
+    background-color:#A69F98;
+    height:10%;
+    width:100%;
+}
+
+nav{
+    background-color:#8C6057;
+    height:10%;
+    width:100%;
+}
+a:hover{
+    color:pink;
+}
